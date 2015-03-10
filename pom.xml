@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angularAMD</artifactId>
-    <version>0.2.1-1</version>
+    <version>0.2.1-2-SNAPSHOT</version>
     <name>angularAMD</name>
     <description>WebJar for angularAMD</description>
     <url>http://webjars.org</url>
@@ -55,7 +55,7 @@
         <url>http://github.com/webjars/angularAMD</url>
         <connection>scm:git:https://github.com/webjars/angularAMD.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angularAMD.git</developerConnection>
-        <tag>angularAMD-0.2.1-1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
